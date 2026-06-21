@@ -6,6 +6,7 @@
       {
         "id": "a8707129fe4a3483",
         "type": "tabs",
+        "dimension": 73.24007220216606,
         "children": [
           {
             "id": "c4c9fbada77de8b5",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "priorities.md.md",
+                "file": "raw/game-scraper/2026-06-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "priorities.md"
+              "title": "2026-06-21"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "b880e6f4439cb88a",
         "type": "tabs",
+        "dimension": 26.75992779783393,
         "children": [
           {
             "id": "3ef39495b589b6c4",
@@ -202,8 +204,10 @@
   },
   "active": "c4c9fbada77de8b5",
   "lastOpenFiles": [
-    "wiki/index.md.md",
     "priorities.md.md",
+    "raw/game-scraper/2026-06-21.md",
+    "raw/game-scraper",
+    "wiki/index.md.md",
     "wiki/projects",
     "wiki",
     "raw",
